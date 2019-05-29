@@ -1,0 +1,315 @@
+2018rank,City,State[c],2010Census,White,Non_Hispanic_White,Black/African American,Asian,Other
+1,New York City,New York,8175133,44.0,33.3,25.5,12.7,N/A
+2,Los Angeles,California,3792621,N/A,28.7,9.6,11.3,N/A
+3,Chicago,Illinois,2695598,44.9,31.7,32.9,5.5,N/A
+4,Houston,Texas,2100263,N/A,25.6,25.7,6.0,N/A
+5,Phoenix,Arizona,1445632,N/A,46.5,6.5,3.2,N/A
+6,Philadelphia,Pennsylvania,1526006,N/A,N/A,N/A,6.3,N/A
+7,San Antonio,Texas,1327407,72.6,26.6,6.9,2.4,N/A
+8,San Diego,California,1307402,58.9,45.1,6.7,15.9,N/A
+9,Dallas,Texas,1197816,N/A,28.8,24.7,2.9,N/A
+10,San Jose,California,945942,42.8,28.7,3.2,32.0,15.7
+11,Austin,Texas,790390,68.3,48.7,8.1,6.3,N/A
+12,Jacksonville,Florida,821784,59.4,55.1,30.7,4.3,N/A
+13,Fort Worth,Texas,741206,61.6,41.7,18.9,3.7,N/A
+14,Columbus,Ohio,787033,61.5,59.3,28.0,4.1,N/A
+15,San Francisco,California,805235,48.5,41.9,6.1,33.3,0.4
+16,Charlotte,North Carolina,731424,N/A,N/A,N/A,N/A,N/A
+17,Indianapolis,Indiana,820445,61.8,58.6,27.5,2.1,N/A
+18,Seattle,Washington,608660,69.5,66.3,7.9,13.8,2.4
+19,Denver,Colorado,600158,68.9,52.2,10.2,3.4,N/A
+20,"Washington, D.C.",District of Columbia,601723,38.5,34.8,50.7,3.5,N/A
+21,Boston,Massachusetts,617594,N/A,N/A,N/A,N/A,N/A
+22,El Paso,Texas,649121,80.8,14.2,3.4,1.2,N/A
+23,Detroit,Michigan,713777,10.6,7.8,82.7,1.1,N/A
+24,Nashville,Tennessee,601222,65.5,58.6,28.6,3.5,0.1
+25,Portland,Oregon,583776,76.1,72.2,6.3,7.1,N/A
+26,Memphis,Tennessee,646889,29.4,27.5,63.3,1.6,N/A
+27,Oklahoma City,Oklahoma,579999,62.7,56.7,15.1,4.0,N/A
+28,Las Vegas,Nevada,583756,62.1,47.9,11.1,6.1,N/A
+29,Louisville,Kentucky,597337,N/A,N/A,N/A,N/A,N/A
+30,Baltimore,Maryland,620961,29.6,28.0,63.7,2.3,N/A
+31,Milwaukee,Wisconsin,594833,N/A,37.0,40.0,3.5,N/A
+32,Albuquerque,New Mexico,545852,69.7,42.1,3.3,2.6,N/A
+33,Tucson,Arizona,520116,N/A,N/A,N/A,N/A,N/A
+34,Fresno,California,494665,50.6,30.0,8.3,12.6,N/A
+35,Mesa,Arizona,439041,N/A,N/A,N/A,N/A,N/A
+36,Sacramento,California,466488,45.0,34.5,14.6,18.3,N/A
+37,Atlanta,Georgia,420003,N/A,N/A,N/A,N/A,N/A
+38,Kansas City,Missouri,459787,59.2,54.9,29.9,N/A,N/A
+39,Colorado Springs,Colorado,416427,N/A,N/A,N/A,N/A,N/A
+40,Miami,Florida,399457,N/A,11.9,19.2,1.0,4.2
+41,Raleigh,North Carolina,403892,57.5,53.3,29.3,4.3,N/A
+42,Omaha,Nebraska,408958,73.1,68.0,13.7,2.4,N/A
+43,Long Beach,California,462257,46.1,29.4,13.5,12.9,N/A
+44,Virginia Beach,Virginia,437994,67.7,64.5,19.6,6.1,N/A
+45,Oakland,California,390724,34.5,25.9,28.0,16.8,N/A
+46,Minneapolis,Minnesota,382578,63.8,60.3,18.6,5.6,5.6
+47,Tulsa,Oklahoma,391906,N/A,N/A,N/A,N/A,N/A
+48,Arlington,Texas,365438,N/A,N/A,N/A,N/A,N/A
+49,Tampa,Florida,335709,N/A,N/A,N/A,N/A,N/A
+50,New Orleans,Louisiana,343829,33.0,30.5,60.2,2.9,N/A
+51,Wichita,Kansas,382368,N/A,N/A,N/A,N/A,N/A
+52,Cleveland,Ohio,396815,37.3,33.4,53.3,1.8,N/A
+53,Bakersfield,California,347483,56.8,37.8,8.1,6.2,N/A
+54,Aurora,Colorado,325078,N/A,N/A,N/A,N/A,N/A
+55,Anaheim,California,336265,N/A,N/A,N/A,N/A,N/A
+56,Honolulu,Hawaii,337256,N/A,N/A,N/A,N/A,N/A
+57,Santa Ana,California,324528,45.9,9.2,1.5,10.5,N/A
+58,Riverside,California,303871,56.5,34.0,7.0,7.4,N/A
+59,Corpus Christi,Texas,305215,N/A,N/A,N/A,N/A,N/A
+60,Lexington,Kentucky,295803,N/A,N/A,N/A,N/A,N/A
+61,Stockton,California,291707,37.0,22.1,12.2,21.5,N/A
+62,Henderson,Nevada,257729,N/A,N/A,N/A,N/A,N/A
+63,Saint Paul,Minnesota,285068,60.1,55.9,15.7,15.0,N/A
+64,St. Louis,Missouri,319294,43.9,42.2,N/A,2.9,N/A
+65,Cincinnati,Ohio,296943,49.3,48.1,44.8,1.8,N/A
+66,Pittsburgh,Pennsylvania,305704,66.0,64.8,26.1,4.4,N/A
+67,Greensboro,North Carolina,269666,N/A,N/A,N/A,N/A,N/A
+68,Anchorage,Alaska,291826,66.0,62.6,5.6,8.1,N/A
+69,Plano,Texas,259841,N/A,N/A,N/A,N/A,N/A
+70,Lincoln,Nebraska,258379,N/A,N/A,N/A,N/A,N/A
+71,Orlando,Florida,238300,N/A,N/A,N/A,N/A,N/A
+72,Irvine,California,212375,50.5,45.1,1.8,45.1,N/A
+73,Newark,New Jersey,277140,26.3,11.6,52.4,1.6,N/A
+74,Toledo,Ohio,287208,64.8,61.4,27.2,1.1,N/A
+75,Durham,North Carolina,228330,N/A,N/A,N/A,N/A,N/A
+76,Chula Vista,California,243916,N/A,N/A,N/A,N/A,N/A
+77,Fort Wayne,Indiana,253691,N/A,N/A,N/A,N/A,N/A
+78,Jersey City,New Jersey,247597,32.7,21.5,25.8,23.7,N/A
+79,St. Petersburg,Florida,244769,N/A,N/A,N/A,N/A,N/A
+80,Laredo,Texas,236091,N/A,N/A,N/A,N/A,N/A
+81,Madison,Wisconsin,233209,N/A,N/A,N/A,N/A,N/A
+82,Chandler,Arizona,236123,N/A,N/A,N/A,N/A,N/A
+83,Buffalo,New York,261310,50.4,N/A,38.6,3.2,N/A
+84,Lubbock,Texas,229573,N/A,N/A,N/A,N/A,N/A
+85,Scottsdale,Arizona,217385,N/A,N/A,N/A,N/A,N/A
+86,Reno,Nevada,225221,N/A,N/A,N/A,N/A,N/A
+87,Glendale,Arizona,226721,N/A,N/A,N/A,N/A,N/A
+88,Gilbert,Arizona,208453,N/A,N/A,N/A,N/A,N/A
+89,Winston–Salem,North Carolina,229617,N/A,N/A,N/A,N/A,N/A
+90,North Las Vegas,Nevada,216961,N/A,N/A,N/A,N/A,N/A
+91,Norfolk,Virginia,242803,N/A,N/A,N/A,N/A,N/A
+92,Chesapeake,Virginia,222209,N/A,N/A,N/A,N/A,N/A
+93,Garland,Texas,226876,N/A,N/A,N/A,N/A,N/A
+94,Irving,Texas,216290,N/A,N/A,N/A,N/A,N/A
+95,Hialeah,Florida,224669,N/A,N/A,N/A,N/A,N/A
+96,Fremont,California,214089,N/A,N/A,"6,743 – 3.1","107,679 – 50.3","1,064 – 0.5"
+97,Boise,Idaho,205671,N/A,N/A,N/A,N/A,N/A
+98,Richmond,Virginia,204214,N/A,N/A,N/A,N/A,N/A
+99,Baton Rouge,Louisiana,229493,N/A,N/A,N/A,N/A,N/A
+100,Spokane,Washington,208916,N/A,N/A,N/A,N/A,N/A
+101,Des Moines,Iowa,203433,76.4,70.5,10.2,4.4,N/A
+102,Tacoma,Washington,198397,N/A,N/A,N/A,N/A,N/A
+103,San Bernardino,California,209924,45.6,19.0,15.0,4.0,N/A
+104,Modesto,California,201165,N/A,N/A,N/A,N/A,N/A
+105,Fontana,California,196069,N/A,N/A,N/A,N/A,N/A
+106,Santa Clarita,California,176320,N/A,N/A,N/A,N/A,N/A
+107,Birmingham,Alabama,212237,N/A,N/A,N/A,N/A,N/A
+108,Oxnard,California,197899,N/A,N/A,N/A,N/A,N/A
+109,Fayetteville,North Carolina,200564,N/A,N/A,N/A,N/A,N/A
+110,Moreno Valley,California,193365,N/A,N/A,N/A,N/A,N/A
+111,Rochester,New York,210565,43.7,37.6,41.7,3.1,N/A
+112,Glendale,California,191719,N/A,N/A,N/A,N/A,N/A
+113,Huntington Beach,California,189992,N/A,N/A,N/A,N/A,N/A
+114,Salt Lake City,Utah,186440,75.1,65.7,2.6,4.4,N/A
+115,Grand Rapids,Michigan,188040,N/A,N/A,N/A,N/A,N/A
+116,Amarillo,Texas,190695,N/A,N/A,N/A,N/A,N/A
+117,Yonkers,New York,195976,55.8,41.4,16.0,5.8,N/A
+118,Aurora,Illinois,197899,N/A,N/A,N/A,N/A,N/A
+119,Montgomery,Alabama,205764,N/A,N/A,N/A,N/A,N/A
+120,Akron,Ohio,199110,N/A,N/A,N/A,N/A,N/A
+121,Little Rock,Arkansas,193524,N/A,N/A,N/A,N/A,N/A
+122,Huntsville,Alabama,180105,N/A,N/A,N/A,N/A,N/A
+123,Augusta,Georgia,195844,N/A,N/A,N/A,N/A,N/A
+124,Port St. Lucie,Florida,164603,N/A,N/A,N/A,N/A,N/A
+125,Grand Prairie,Texas,175396,N/A,N/A,N/A,N/A,N/A
+126,Columbus,Georgia,189885,46.3,43.7,45.5,2.2,N/A
+127,Tallahassee,Florida,181376,N/A,N/A,N/A,N/A,N/A
+128,Overland Park,Kansas,173372,N/A,N/A,N/A,N/A,N/A
+129,Tempe,Arizona,161719,N/A,N/A,N/A,N/A,N/A
+130,McKinney,Texas,131117,N/A,N/A,N/A,N/A,N/A
+131,Mobile,Alabama,195111,45.0,43.9,50.6,1.8,N/A
+132,Cape Coral,Florida,154305,N/A,N/A,N/A,N/A,N/A
+133,Shreveport,Louisiana,199311,N/A,N/A,N/A,N/A,N/A
+134,Frisco,Texas,116989,N/A,N/A,N/A,N/A,N/A
+135,Knoxville,Tennessee,178874,N/A,N/A,N/A,N/A,N/A
+136,Worcester,Massachusetts,181045,N/A,N/A,N/A,N/A,N/A
+137,Brownsville,Texas,175023,N/A,N/A,N/A,N/A,N/A
+138,Vancouver,Washington,161791,N/A,N/A,N/A,N/A,N/A
+139,Fort Lauderdale,Florida,165521,N/A,N/A,N/A,N/A,N/A
+140,Sioux Falls,South Dakota,153888,N/A,N/A,N/A,N/A,N/A
+141,Ontario,California,163924,N/A,N/A,N/A,N/A,N/A
+142,Chattanooga,Tennessee,167674,N/A,N/A,N/A,N/A,N/A
+143,Providence,Rhode Island,178042,49.8,37.6,16.0,6.4,N/A
+144,Newport News,Virginia,180719,N/A,N/A,N/A,N/A,N/A
+145,Rancho Cucamonga,California,165269,N/A,N/A,N/A,N/A,N/A
+146,Santa Rosa,California,167815,N/A,N/A,N/A,N/A,N/A
+147,Oceanside,California,167086,N/A,N/A,N/A,N/A,N/A
+148,Salem,Oregon,154637,N/A,N/A,N/A,N/A,N/A
+149,Elk Grove,California,153015,N/A,N/A,N/A,N/A,N/A
+150,Garden Grove,California,170883,N/A,N/A,N/A,N/A,N/A
+151,Pembroke Pines,Florida,154019,N/A,N/A,N/A,N/A,N/A
+152,Peoria,Arizona,154065,N/A,N/A,N/A,N/A,N/A
+153,Eugene,Oregon,156185,N/A,N/A,N/A,N/A,N/A
+154,Corona,California,152374,N/A,N/A,N/A,N/A,N/A
+155,Cary,North Carolina,135234,N/A,N/A,N/A,N/A,N/A
+156,Springfield,Missouri,159498,N/A,N/A,N/A,N/A,N/A
+157,Fort Collins,Colorado,143986,N/A,N/A,N/A,N/A,N/A
+158,Jackson,Mississippi,173514,N/A,N/A,N/A,N/A,N/A
+159,Alexandria,Virginia,139966,N/A,N/A,N/A,N/A,N/A
+160,Hayward,California,144186,N/A,N/A,"16,297 – 11.3","31,090 – 21.6","4,290 – 3.0"
+161,Lancaster,California,156633,N/A,N/A,N/A,N/A,N/A
+162,Lakewood,Colorado,142980,N/A,N/A,N/A,N/A,N/A
+163,Clarksville,Tennessee,132929,N/A,N/A,N/A,N/A,N/A
+164,Palmdale,California,152750,N/A,N/A,N/A,N/A,N/A
+165,Salinas,California,150441,N/A,N/A,N/A,N/A,N/A
+166,Springfield,Massachusetts,153060,51.8,36.7,22.3,2.4,N/A
+167,Hollywood,Florida,140768,N/A,N/A,N/A,N/A,N/A
+168,Pasadena,Texas,149043,N/A,N/A,N/A,N/A,N/A
+169,Sunnyvale,California,140081,N/A,N/A,"2,533 (1.8)","57,012 (40.7)",594 (0.4)
+170,Macon,Georgia,91351,N/A,N/A,N/A,N/A,N/A
+171,Kansas City,Kansas,145786,52.2,40.2,26.8,2.7,N/A
+172,Pomona,California,149058,48.0,12.5,7.3,8.5,N/A
+173,Escondido,California,143911,N/A,N/A,N/A,N/A,N/A
+174,Killeen,Texas,127921,N/A,N/A,N/A,N/A,N/A
+175,Naperville,Illinois,141853,N/A,N/A,N/A,N/A,N/A
+176,Joliet,Illinois,147433,N/A,N/A,N/A,N/A,N/A
+177,Bellevue,Washington,122363,N/A,N/A,N/A,N/A,N/A
+178,Rockford,Illinois,152871,N/A,N/A,N/A,N/A,N/A
+179,Savannah,Georgia,136286,N/A,N/A,N/A,N/A,N/A
+180,Paterson,New Jersey,146199,N/A,N/A,N/A,N/A,N/A
+181,Torrance,California,145438,N/A,N/A,N/A,N/A,N/A
+182,Bridgeport,Connecticut,144229,N/A,N/A,N/A,N/A,N/A
+183,McAllen,Texas,129877,N/A,N/A,N/A,N/A,N/A
+184,Mesquite,Texas,139824,N/A,N/A,N/A,N/A,N/A
+185,Syracuse,New York,145170,N/A,N/A,N/A,N/A,N/A
+186,Midland,Texas,111147,N/A,N/A,N/A,N/A,N/A
+187,Pasadena,California,137122,55.8,38.8,10.6,14.3,N/A
+188,Murfreesboro,Tennessee,108755,N/A,N/A,N/A,N/A,N/A
+189,Miramar,Florida,122041,N/A,N/A,N/A,N/A,N/A
+190,Dayton,Ohio,141527,N/A,N/A,N/A,N/A,N/A
+191,Fullerton,California,135161,N/A,N/A,N/A,N/A,N/A
+192,Olathe,Kansas,125872,N/A,N/A,N/A,N/A,N/A
+193,Orange,California,136416,N/A,N/A,N/A,N/A,N/A
+194,Thornton,Colorado,118772,N/A,N/A,N/A,N/A,N/A
+195,Roseville,California,118788,N/A,N/A,N/A,N/A,N/A
+196,Denton,Texas,113383,N/A,N/A,N/A,N/A,N/A
+197,Waco,Texas,124805,N/A,N/A,N/A,N/A,N/A
+198,Surprise,Arizona,117517,N/A,N/A,N/A,N/A,N/A
+199,Carrollton,Texas,119097,N/A,N/A,N/A,N/A,N/A
+200,West Valley City,Utah,129480,N/A,N/A,N/A,N/A,N/A
+201,Charleston,South Carolina,120083,N/A,N/A,N/A,N/A,N/A
+202,Warren,Michigan,134056,N/A,N/A,N/A,N/A,N/A
+203,Hampton,Virginia,137436,N/A,N/A,N/A,N/A,N/A
+204,Gainesville,Florida,124354,N/A,N/A,N/A,N/A,N/A
+205,Visalia,California,124442,N/A,N/A,N/A,N/A,N/A
+206,Coral Springs,Florida,121096,N/A,N/A,N/A,N/A,N/A
+207,Columbia,South Carolina,129272,N/A,N/A,N/A,N/A,N/A
+208,Cedar Rapids,Iowa,126326,N/A,N/A,N/A,N/A,N/A
+209,Sterling Heights,Michigan,129699,N/A,N/A,N/A,N/A,N/A
+210,New Haven,Connecticut,129779,N/A,N/A,N/A,N/A,N/A
+211,Stamford,Connecticut,122643,N/A,N/A,N/A,N/A,N/A
+212,Concord,California,122067,N/A,N/A,"3,991 – 3.3","13,219 – 10.8",744 – 0.6
+213,Kent,Washington,92411,N/A,N/A,N/A,N/A,N/A
+214,Santa Clara,California,116468,N/A,N/A,"2,929 – 2.5","43,531 – 37.4",604 – 0.5
+215,Elizabeth,New Jersey,124969,N/A,N/A,N/A,N/A,N/A
+216,Round Rock,Texas,99887,N/A,N/A,N/A,N/A,N/A
+217,Thousand Oaks,California,126683,N/A,N/A,N/A,N/A,N/A
+218,Lafayette,Louisiana,120623,N/A,N/A,N/A,N/A,N/A
+219,Athens,Georgia,115452,N/A,N/A,N/A,N/A,N/A
+220,Topeka,Kansas,127473,N/A,N/A,N/A,N/A,N/A
+221,Simi Valley,California,124237,N/A,N/A,N/A,N/A,N/A
+222,Fargo,North Dakota,105549,N/A,N/A,N/A,N/A,N/A
+223,Norman,Oklahoma,110925,N/A,N/A,N/A,N/A,N/A
+224,Columbia,Missouri,108500,N/A,N/A,N/A,N/A,N/A
+225,Abilene,Texas,117063,N/A,N/A,N/A,N/A,N/A
+226,Wilmington,North Carolina,106476,N/A,N/A,N/A,N/A,N/A
+227,Hartford,Connecticut,124775,N/A,N/A,N/A,N/A,N/A
+228,Victorville,California,115903,N/A,N/A,N/A,N/A,N/A
+229,Pearland,Texas,91252,N/A,N/A,N/A,N/A,N/A
+230,Vallejo,California,115942,32.8,25.0,22.1,24.9,N/A
+231,Ann Arbor,Michigan,113934,73.0,70.4,7.7,14.4,N/A
+232,Berkeley,California,112580,N/A,N/A,"10,896 – 9.7","21,499 – 19.1",170 – 0.2
+233,Allentown,Pennsylvania,118032,N/A,N/A,N/A,N/A,N/A
+234,Richardson,Texas,99223,N/A,N/A,N/A,N/A,N/A
+235,Odessa,Texas,99940,N/A,N/A,N/A,N/A,N/A
+236,Arvada,Colorado,106433,N/A,N/A,N/A,N/A,N/A
+237,Cambridge,Massachusetts,105162,66.6,62.1,11.7,15.1,N/A
+238,Sugar Land,Texas,78817,N/A,N/A,N/A,N/A,N/A
+239,Beaumont,Texas,118296,N/A,N/A,N/A,N/A,N/A
+240,Lansing,Michigan,114297,N/A,N/A,N/A,N/A,N/A
+241,Evansville,Indiana,117429,N/A,N/A,N/A,N/A,N/A
+242,Rochester,Minnesota,106769,N/A,N/A,N/A,N/A,N/A
+243,Independence,Missouri,116830,N/A,N/A,N/A,N/A,N/A
+244,Fairfield,California,105321,N/A,N/A,N/A,N/A,N/A
+245,Provo,Utah,112488,N/A,N/A,N/A,N/A,N/A
+246,Clearwater,Florida,107685,N/A,N/A,N/A,N/A,N/A
+247,College Station,Texas,93857,N/A,N/A,N/A,N/A,N/A
+248,West Jordan,Utah,103712,N/A,N/A,N/A,N/A,N/A
+249,Carlsbad,California,105328,N/A,N/A,N/A,N/A,N/A
+250,El Monte,California,113475,N/A,N/A,N/A,N/A,N/A
+251,Murrieta,California,103466,N/A,N/A,N/A,N/A,N/A
+252,Temecula,California,100097,N/A,N/A,N/A,N/A,N/A
+253,Springfield,Illinois,116250,N/A,N/A,N/A,N/A,N/A
+254,Palm Bay,Florida,103190,N/A,N/A,N/A,N/A,N/A
+255,Costa Mesa,California,109960,N/A,N/A,N/A,N/A,N/A
+256,Westminster,Colorado,106114,N/A,N/A,N/A,N/A,N/A
+257,North Charleston,South Carolina,97471,N/A,N/A,N/A,N/A,N/A
+258,Miami Gardens,Florida,107167,N/A,N/A,N/A,N/A,N/A
+259,Manchester,New Hampshire,109565,N/A,N/A,N/A,N/A,N/A
+260,High Point,North Carolina,104371,N/A,N/A,N/A,N/A,N/A
+261,Downey,California,111772,N/A,N/A,N/A,N/A,N/A
+262,Clovis,California,95631,N/A,N/A,N/A,N/A,N/A
+263,Pompano Beach,Florida,99845,N/A,N/A,N/A,N/A,N/A
+264,Pueblo,Colorado,106595,N/A,N/A,N/A,N/A,N/A
+265,Elgin,Illinois,108188,N/A,N/A,N/A,N/A,N/A
+266,Lowell,Massachusetts,106519,N/A,N/A,N/A,N/A,N/A
+267,Antioch,California,102372,N/A,N/A,"17,045 - 16.7","10,322 - 10.1",743 - 0.7
+268,West Palm Beach,Florida,99919,N/A,N/A,N/A,N/A,N/A
+269,Peoria,Illinois,115007,N/A,N/A,N/A,N/A,N/A
+270,Everett,Washington,103019,N/A,N/A,N/A,N/A,N/A
+271,Ventura,California,106433,N/A,N/A,N/A,N/A,N/A
+272,Centennial,Colorado,100377,N/A,N/A,N/A,N/A,N/A
+273,Lakeland,Florida,97422,N/A,N/A,N/A,N/A,N/A
+274,Gresham,Oregon,105594,N/A,N/A,N/A,N/A,N/A
+275,Richmond,California,103701,N/A,N/A,"26,872 – 25.9","13,783 – 13.3",462 – 0.4
+276,Billings,Montana,104170,N/A,N/A,N/A,N/A,N/A
+277,Inglewood,California,109673,N/A,N/A,N/A,N/A,N/A
+278,Broken Arrow,Oklahoma,98850,N/A,N/A,N/A,N/A,N/A
+279,Sandy Springs,Georgia,93853,N/A,N/A,N/A,N/A,N/A
+280,Jurupa Valley,California,0,N/A,N/A,N/A,N/A,N/A
+281,Hillsboro,Oregon,91611,N/A,N/A,N/A,N/A,N/A
+282,Waterbury,Connecticut,110366,N/A,N/A,N/A,N/A,N/A
+283,Santa Maria,California,99553,N/A,N/A,N/A,N/A,N/A
+284,Boulder,Colorado,97385,N/A,N/A,N/A,N/A,N/A
+285,Greeley,Colorado,92889,N/A,N/A,N/A,N/A,N/A
+286,Daly City,California,101123,N/A,N/A,3284,55711,752
+287,Meridian,Idaho,75092,N/A,N/A,N/A,N/A,N/A
+288,Lewisville,Texas,95290,N/A,N/A,N/A,N/A,N/A
+289,Davie,Florida,91992,N/A,N/A,N/A,N/A,N/A
+290,West Covina,California,106098,N/A,N/A,N/A,N/A,N/A
+291,League City,Texas,83560,N/A,N/A,N/A,N/A,N/A
+292,Tyler,Texas,96900,N/A,N/A,N/A,N/A,N/A
+293,Norwalk,California,105549,N/A,N/A,N/A,N/A,N/A
+294,San Mateo,California,97207,N/A,N/A,"2,099 - 2.2","18,153 - 18.7","1,937 - 2.0"
+295,Green Bay,Wisconsin,104057,N/A,N/A,N/A,N/A,N/A
+296,Wichita Falls,Texas,104553,N/A,N/A,N/A,N/A,N/A
+297,Sparks,Nevada,90264,N/A,N/A,N/A,N/A,N/A
+298,Lakewood,New Jersey,92843,N/A,N/A,N/A,N/A,N/A
+299,Burbank,California,103340,N/A,N/A,N/A,N/A,N/A
+300,Rialto,California,99171,N/A,N/A,N/A,N/A,N/A
+301,Allen,Texas,84246,N/A,N/A,N/A,N/A,N/A
+302,El Cajon,California,99478,N/A,N/A,N/A,N/A,N/A
+303,Las Cruces,New Mexico,97618,N/A,N/A,N/A,N/A,N/A
+304,Renton,Washington,90927,N/A,N/A,N/A,N/A,N/A
+305,Davenport,Iowa,99685,N/A,N/A,N/A,N/A,N/A
+306,South Bend,Indiana,101168,N/A,N/A,N/A,N/A,N/A
+307,Vista,California,93834,N/A,N/A,N/A,N/A,N/A
+308,Tuscaloosa,Alabama,90468,N/A,N/A,N/A,N/A,N/A
+309,Clinton,Michigan,96796,N/A,N/A,N/A,N/A,N/A
+310,Edison,New Jersey,99967,N/A,N/A,N/A,N/A,N/A
+311,Woodbridge,New Jersey,99585,N/A,N/A,N/A,N/A,N/A
+312,San Angelo,Texas,93200,N/A,N/A,N/A,N/A,N/A
+313,Kenosha,Wisconsin,99218,N/A,N/A,N/A,N/A,N/A
+314,Vacaville,California,92428,N/A,N/A,N/A,N/A,N/A
