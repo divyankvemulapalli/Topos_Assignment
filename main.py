@@ -1,16 +1,19 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import sys
-import os
 
 
 if __name__ == '__main__':
+
+    #URL Requests
     website_url = requests.get('https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population').text
+
+    #Souping
     soup = BeautifulSoup(website_url,'lxml')
     Top_Cities_Table = soup.find('table', {'class': 'wikitable sortable'})
     dataFrame_0 = pd.read_html(str(Top_Cities_Table))[0]
 
+    #Data Cleaning
     dataFrame_0['City'] = dataFrame_0['City'].apply(lambda x: str(x)[0:str(x).find('[')] if '[' in str(x) else str(x))
 
     dataFrame_0.drop('Change', axis=1, inplace=True)
@@ -22,11 +25,8 @@ if __name__ == '__main__':
     dataFrame_0.drop('2016 land area', axis=1, inplace=True)
 
 
-
-
     cities = dataFrame_0['City'].values
 
-    count = 0
     links = Top_Cities_Table.findAll('a')
 
     White = []
@@ -45,9 +45,7 @@ if __name__ == '__main__':
     for link in links:
 
         if link.text in cities:
-            count+=1
             web_string = 'https://en.wikipedia.org' + link.get('href')
-            # print(web_string)
             website_url_1 = requests.get(web_string).text
             soup_1 = BeautifulSoup(website_url_1, 'lxml')
             Racial_Composition_Table = soup_1.findAll('table', {'class':'wikitable sortable collapsible'})
@@ -89,58 +87,47 @@ if __name__ == '__main__':
                         continue
 
             except ValueError:
-                print("Exception")
-                exc_type, exc_obj, exc_tb = sys.exc_info()
-                fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
-                print(exc_tb.tb_lineno)
+                pass
 
             except IndexError:
-                print("Index Exception")
-                exc_type, exc_obj, exc_tb = sys.exc_info()
-                fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
-                print(exc_tb.tb_lineno)
-
-
-            if not (non_hisp_bool and hisp_bool and black_bool and asian_bool and other_bool and white_bool):
-                continue
+                pass
 
             if non_hisp_bool:
                  non_hisp_bool = False
             else:
-                Non_Hispanic_White.append("N/A")
+                Non_Hispanic_White.append("NA")
 
             if black_bool:
                 black_bool = False
             else:
-                Black.append("N/A")
+                Black.append("NA")
 
             if asian_bool:
                 asian_bool = False
             else:
-                Asian.append("N/A")
+                Asian.append("NA")
 
             if hisp_bool:
                 hisp_bool = False
             else:
-                Hispanic.append("N/A")
+                Hispanic.append("NA")
 
             if white_bool:
                 white_bool = False
             else:
-                White.append("N/A")
+                White.append("NA")
 
             if other_bool:
                 other_bool = False
             else:
-                Other.append("N/A")
+                Other.append("NA")
+
 
     dataFrame_0["White"] = White
     dataFrame_0["Non_Hispanic_White"] = Non_Hispanic_White
     dataFrame_0["African_American"] = Black
     dataFrame_0["Asian"] = Asian
     dataFrame_0["Other"] = Other
-
-    dataFrame_0[dataFrame_0.White != 'N/A' and dataFrame_0.Non_Hispanic_White != 'N/A' and dataFrame_0.African_American != 'N/A' and dataFrame_0.Asian != 'N/A' and dataFrame_0.Other != 'N/A' ]
 
 
     dataFrame_0.to_csv('data.csv', header=1, index=False)
