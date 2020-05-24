@@ -1,4 +1,4 @@
-# Topos_Assignment
+#  A python web scraper to collect data from Wikipedia about the top cities in the United States.
 Required Libraries
 1. Requests
 2. BeautifulSoup
